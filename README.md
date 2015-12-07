@@ -1,8 +1,9 @@
 # Running this program
 This program is written in Python 3.4 and should be run using the appropriate
 interpreter.
-There are 2 ways that this program can be used - using the automator module,
-which runs the main() in the walmartScrape module hourly. The walmartScrape
+
+There are 2 ways that this program can be used - with the automator module,
+which runs the main() in the walmartScrape module hourly or the
 module can also be run manually, if the call to main() at the bottom of the
 module is uncommented. 
 
