@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Dec  5 14:38:35 2015
-
 @author: taylorthompson
 
 Runs the main function contained in walmartScrape.py at hourly intervals
